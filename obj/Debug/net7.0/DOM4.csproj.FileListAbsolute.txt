@@ -1,0 +1,15 @@
+E:\Sem 2\DOM4\obj\Debug\net7.0\DOM4.csproj.AssemblyReference.cache
+E:\Sem 2\DOM4\obj\Debug\net7.0\DOM4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem 2\DOM4\obj\Debug\net7.0\DOM4.AssemblyInfoInputs.cache
+E:\Sem 2\DOM4\obj\Debug\net7.0\DOM4.AssemblyInfo.cs
+E:\Sem 2\DOM4\obj\Debug\net7.0\DOM4.csproj.CoreCompileInputs.cache
+E:\Sem 2\DOM4\bin\Debug\net7.0\DOM4.exe
+E:\Sem 2\DOM4\bin\Debug\net7.0\DOM4.deps.json
+E:\Sem 2\DOM4\bin\Debug\net7.0\DOM4.runtimeconfig.json
+E:\Sem 2\DOM4\bin\Debug\net7.0\DOM4.dll
+E:\Sem 2\DOM4\bin\Debug\net7.0\DOM4.pdb
+E:\Sem 2\DOM4\obj\Debug\net7.0\DOM4.dll
+E:\Sem 2\DOM4\obj\Debug\net7.0\refint\DOM4.dll
+E:\Sem 2\DOM4\obj\Debug\net7.0\DOM4.pdb
+E:\Sem 2\DOM4\obj\Debug\net7.0\DOM4.genruntimeconfig.cache
+E:\Sem 2\DOM4\obj\Debug\net7.0\ref\DOM4.dll
